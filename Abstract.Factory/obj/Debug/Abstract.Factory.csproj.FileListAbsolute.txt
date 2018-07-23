@@ -1,0 +1,5 @@
+C:\Sources\WorkShop\DesignPatterns\Abstract.Factory\bin\Debug\Abstract.Factory.exe.config
+C:\Sources\WorkShop\DesignPatterns\Abstract.Factory\bin\Debug\Abstract.Factory.exe
+C:\Sources\WorkShop\DesignPatterns\Abstract.Factory\bin\Debug\Abstract.Factory.pdb
+C:\Sources\WorkShop\DesignPatterns\Abstract.Factory\obj\Debug\Abstract.Factory.exe
+C:\Sources\WorkShop\DesignPatterns\Abstract.Factory\obj\Debug\Abstract.Factory.pdb
