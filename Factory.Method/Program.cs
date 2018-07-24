@@ -35,8 +35,7 @@ namespace Factory.Method
                         factory = new WireTransferFactory();
                         break;
                     default:
-                        return;
-                        break;
+                        return;                        
                 }
                 payment = factory.CreatePayment();
                 ProcessPayment(payment);
