@@ -21,6 +21,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flyweight", "Flyweight\Flyw
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chain.Of.Responsibility", "Chain.Of.Responsibility\Chain.Of.Responsibility.csproj", "{6D35E0BC-A38F-4343-84F6-857920F3832B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Memento", "Memento\Memento.csproj", "{D1F02224-3F90-46DD-A0A1-F108F8CA5B17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Observer", "Observer\Observer.csproj", "{0C4D2C83-B8AA-44F7-807A-EF8034781313}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +67,14 @@ Global
 		{6D35E0BC-A38F-4343-84F6-857920F3832B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6D35E0BC-A38F-4343-84F6-857920F3832B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6D35E0BC-A38F-4343-84F6-857920F3832B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1F02224-3F90-46DD-A0A1-F108F8CA5B17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1F02224-3F90-46DD-A0A1-F108F8CA5B17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1F02224-3F90-46DD-A0A1-F108F8CA5B17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1F02224-3F90-46DD-A0A1-F108F8CA5B17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C4D2C83-B8AA-44F7-807A-EF8034781313}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C4D2C83-B8AA-44F7-807A-EF8034781313}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C4D2C83-B8AA-44F7-807A-EF8034781313}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C4D2C83-B8AA-44F7-807A-EF8034781313}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -4,3 +4,10 @@ C:\Sources\WorkShop\DesignPatterns\Prototype\bin\Debug\Prototype.pdb
 C:\Sources\WorkShop\DesignPatterns\Prototype\obj\Debug\Prototype.csprojResolveAssemblyReference.cache
 C:\Sources\WorkShop\DesignPatterns\Prototype\obj\Debug\Prototype.exe
 C:\Sources\WorkShop\DesignPatterns\Prototype\obj\Debug\Prototype.pdb
+C:\Resources\WorkShop\Prototype\bin\Debug\Prototype.exe.config
+C:\Resources\WorkShop\Prototype\bin\Debug\Prototype.exe
+C:\Resources\WorkShop\Prototype\bin\Debug\Prototype.pdb
+C:\Resources\WorkShop\Prototype\obj\Debug\Prototype.csprojAssemblyReference.cache
+C:\Resources\WorkShop\Prototype\obj\Debug\Prototype.csproj.CoreCompileInputs.cache
+C:\Resources\WorkShop\Prototype\obj\Debug\Prototype.exe
+C:\Resources\WorkShop\Prototype\obj\Debug\Prototype.pdb

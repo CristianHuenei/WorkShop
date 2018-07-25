@@ -4,3 +4,9 @@ C:\Sources\WorkShop\DesignPatterns\Bridge\bin\Debug\Bridge.pdb
 C:\Sources\WorkShop\DesignPatterns\Bridge\obj\Debug\Bridge.exe
 C:\Sources\WorkShop\DesignPatterns\Bridge\obj\Debug\Bridge.pdb
 C:\Sources\WorkShop\DesignPatterns\Bridge\obj\Debug\Bridge.csprojResolveAssemblyReference.cache
+C:\Resources\WorkShop\Bridge\bin\Debug\Bridge.exe.config
+C:\Resources\WorkShop\Bridge\bin\Debug\Bridge.exe
+C:\Resources\WorkShop\Bridge\bin\Debug\Bridge.pdb
+C:\Resources\WorkShop\Bridge\obj\Debug\Bridge.csproj.CoreCompileInputs.cache
+C:\Resources\WorkShop\Bridge\obj\Debug\Bridge.exe
+C:\Resources\WorkShop\Bridge\obj\Debug\Bridge.pdb
